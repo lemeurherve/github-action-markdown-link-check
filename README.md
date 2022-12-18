@@ -32,6 +32,8 @@ Markdown link check.
    ![](https://img.shields.io/github/stars/tendermint/tendermint?style=social)
 1. [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope/blob/main/.github/workflows/lint-markdown.yml)
    ![](https://img.shields.io/github/stars/pyroscope-io/pyroscope?style=social)
+1. [status.jenkins.io](https://github.com/jenkins-infra/status/blob/main/.github/workflows/check-links.yaml)
+   ![](https://img.shields.io/github/stars/jenkins-infra/status?style=social)
 
 If you are using this on production, consider [buying me a coffee](https://ko-fi.com/gauravnelson) ☕.
 
